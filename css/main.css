@@ -16814,10 +16814,10 @@ p {
   word-break: break-all;
 }
 .u-font-arial.u-custom-font {
-  font-family: Arial, sans-serif !important;
+  font-family: 'Roboto Slab', serif;
 }
 .u-font-courier-new.u-custom-font {
-  font-family: 'Courier New', monospace !important;
+ font-family: 'Roboto Slab', serif; 
 }
 .u-font-georgia.u-custom-font {
   font-family: Georgia, serif !important;
@@ -19591,7 +19591,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto,sans-serif;
+  font-family: 'Dancing Script', cursive;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
